@@ -29,8 +29,8 @@ Aplicação em Python para esconder mensagens dentro de imagens PNG utilizando e
 ## ⚙️ Como usar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/steganography-tool.git
-cd steganography-tool
+git clone https://github.com/cauau/steganography-python.git
+cd steganography-python
 
 pip install -r requirements.txt
 python main.py
