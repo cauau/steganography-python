@@ -1,7 +1,7 @@
 from tkinter import Tk, Label, Button, Entry, Text, filedialog
 import os
 
-from Source_code import encode_in_image, extract_from_image
+from steganography import encode_in_image, extract_from_image
 
 
 class App:
